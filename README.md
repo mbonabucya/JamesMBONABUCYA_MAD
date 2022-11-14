@@ -20,7 +20,7 @@ Lab 2 is about adding the Textfieild , Add the photo and Implement the button cl
 ##### Getting Started
 
 - clone the repository by running\
-   `git clone https://github.com/mbonabucya/android-labs.git`
+   `git clone https://github.com/mbonabucya/JamesMBONABUCYA_MAD.git`
 - navigate to the folder\
    `cd android labs`
    `open the Lab`
