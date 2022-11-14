@@ -46,4 +46,4 @@ Give a :star:️ if you like this project!
 
 ## :memo: License
 
-This project is [LICENSE](./LICENSE) licensed.
+This project is [LICENSE](./MIT) licensed.
