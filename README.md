@@ -4,7 +4,9 @@
 
 This is android development course using the Kotlin Language
 Lab 2 is about adding the Textfieild , Add the photo and Implement the button click listener in android using Kotlin.
-![screenshot](./app/src/res/drawable/file.png)
+
+
+![screenshot](./Lab2/app/src/main/res/drawable/file.png)
 
 ## Built With
 
