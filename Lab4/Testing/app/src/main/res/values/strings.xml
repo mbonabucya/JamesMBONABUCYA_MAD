@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coding</string>
+    <string name="Home">Home</string>
+    <string name="contact">Get in touch</string>
+    <string name="phone">+250783196896</string>
+    <string name="email">jmbonabu@andrew.cmu.edu</string>
+    <string name="html">Html</string>
+    <string name="java">Object Oriented Programming</string>
+    <string name="C">C++</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="javascript">Javascript</string>
+</resources>
